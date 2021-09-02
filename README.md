@@ -1,2 +1,2 @@
 # project1_pygame
-# how to use pygame
+  how to use pygame
